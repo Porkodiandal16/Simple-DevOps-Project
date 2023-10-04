@@ -58,7 +58,7 @@
 
 1. Create a directory /etc/ansible and create an inventory file called "hosts" add control node IP address in it. 
    
-1. Run ansible command as ansadmin user it should be successful (Master)
+1. Run ansible command as ansadmin  it should be successful (Master)
    ```sh 
    ansible all -m ping
    ```
